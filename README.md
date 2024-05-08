@@ -3,7 +3,7 @@
 <h1 align="center">Hi , I'm Samresh Thapa</h1>
 <h3 align="center">A passionate web developer.</h3>
 
-- 💬 Ask me about **Javascript,React,Node,MongoDb,C**
+- 💬 Ask me about **Javascript,React,Node,Nest,Next,Tailwind,CSS,MongoDb,C,SQL,Postgres**
 
 - 📫 How to reach me **thapasamresh9@gmail.com**
 
